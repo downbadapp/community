@@ -11,7 +11,7 @@ The place for bugs, feature requests, and general discussion.
 
 ## What is DownBad?
 
-[DownBad](https://downbad.app) is uptime monitoring for small teams, but all are welcome. $50/year gets you up to 100 monitors with Domain Bundle monitoring — drop in a domain and it auto-configures URL, SSL, DNS, WHOIS, and blacklist checks. No fuss. You can still configure everything manually too.
+[DownBad](https://downbad.app) is uptime monitoring for small teams, but all are welcome. $50/year gets you up to 100 monitors with Domain Bundle monitoring — drop in a domain and it auto-configures URL, SSL, DNS, and WHOIS checks. No fuss. You can still configure everything manually too.
 
 ## Links
 
